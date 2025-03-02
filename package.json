@@ -10,6 +10,8 @@
 		"vercel-dev": "vercel dev"
 	},
 	"dependencies": {
+		"google-auth-library": "^9.15.1",
+		"iron-session": "^8.0.4",
 		"solid-js": "^1.9.5"
 	},
 	"devDependencies": {
